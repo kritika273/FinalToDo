@@ -34,8 +34,8 @@ Model View View Model (MVVM)
 
 **<h1>Video WalkThrough</h1>**
 ![](todo1.gif)
-![](todo1.gif)
-![](todo1.gif)
+![](todo2.gif)
+![](todo3.gif)
 
 **<h1>License</h1>**
 
